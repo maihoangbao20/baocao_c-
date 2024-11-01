@@ -1,0 +1,12 @@
+E:\MaiHoangBao_BaoCao\MainMenu\bin\Debug\MainMenu.exe.config
+E:\MaiHoangBao_BaoCao\MainMenu\bin\Debug\MainMenu.exe
+E:\MaiHoangBao_BaoCao\MainMenu\bin\Debug\MainMenu.pdb
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.csproj.AssemblyReference.cache
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.Properties.Resources.resources
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.Quanlinhanvien.resources
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.csproj.GenerateResource.cache
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.exe
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.pdb
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.Form1.resources
+E:\MaiHoangBao_BaoCao\MainMenu\obj\Debug\MainMenu.Login.resources
